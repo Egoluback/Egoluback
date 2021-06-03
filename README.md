@@ -44,6 +44,7 @@ I'm Kokush Egor, 15 y. o. novice data scientist from Russia. Currently studying 
 ![](https://img.shields.io/badge/Principle-OOP-informational?style=flat&logo=OOP&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
