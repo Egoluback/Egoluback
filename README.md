@@ -34,6 +34,7 @@ I'm Kokush Egor, 15 y. o. novice data scientist from Russia. Currently studying 
 ![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cpp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Versions-Git-informational?style=flat&logo=Git&logoColor=white&color=white)
 
 
 <details>
