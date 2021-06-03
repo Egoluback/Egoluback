@@ -28,6 +28,7 @@ I'm Kokush Egor, 15 y. o. novice data scientist from Russia. Currently studying 
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Library-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-Gensim-informational?style=flat&logo=Gensim&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=brightgreen)
