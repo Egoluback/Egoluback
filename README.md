@@ -19,7 +19,7 @@ I'm Kokush Egor, 15 y. o. novice data scientist from Russia. Currently studying 
 
 <br /><br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Egoluback&theme=nord&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=Egoluback&theme=nord&column=8)
 
 ### Skills
 
