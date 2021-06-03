@@ -1,6 +1,7 @@
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-white)](https://stepik.org/users/51671714)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-profile-lightblue)](https://codepen.io/Egoluback/)
+![](https://visitor-badge.glitch.me/badge?page_id=Egoluback)
 
 ## Hello there 👋
 
@@ -14,7 +15,7 @@ I'm Kokush Egor, 15 y. o. novice data scientist from Russia. Currently studying 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egoluback&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/Egoluback">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Egoluback&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Egor's GitHub Stats" />
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Egoluback&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Egor's GitHub Stats" />
 </a>
 
 <br /><br />
