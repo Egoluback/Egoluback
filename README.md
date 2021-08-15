@@ -1,6 +1,7 @@
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-white)](https://stepik.org/users/51671714)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-profile-lightblue)](https://codepen.io/Egoluback/)
+[![VK Badge](https://img.shields.io/badge/VK-profile-lightblue)](https://vk.com/egoluback)
 ![](https://visitor-badge.glitch.me/badge?page_id=Egoluback)
 
 ## Hello there 👋
@@ -9,6 +10,8 @@
 
 I'm Kokush Egor, 15 y. o. novice data scientist from Russia. Currently studying **NLP** and **Deep Learning with PyTorch**. Have some knowledges in base Machine Learning algorithms(**linear models** and **decision trees**) and Deep Learning Neural Networks(**MLP**, **RNN** and **Transformers**). <br />
 I often participate in AI competitions: NTI Big Data&Machine Learning(**Time series**&**web-scrapping**), iVision(**Time series**&**Computer Vision**), NTI Augmented Reality(**Computer Vision**), AIIJC(**NLP**&**Semi-supervised learning**).
+
+Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
 
 ### GitHub stats
 
