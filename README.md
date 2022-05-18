@@ -1,7 +1,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-white)](https://stepik.org/users/51671714)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-profile-lightblue)](https://codepen.io/Egoluback/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-profile-blue)](https://t.me/egoluback)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-account-blue)](https://t.me/egoluback)
 [![VK Badge](https://img.shields.io/badge/VK-profile-lightblue)](https://vk.com/egoluback)
 ![](https://visitor-badge.glitch.me/badge?page_id=Egoluback)
 
