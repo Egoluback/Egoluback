@@ -1,5 +1,5 @@
-[![Stepik Badge](https://img.shields.io/badge/Stepik-profile-white)](https://stepik.org/users/51671714)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
+[![Stepik Badge](https://img.shields.io/badge/Stepik-profile-white)](https://stepik.org/users/51671714)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-profile-lightblue)](https://codepen.io/Egoluback/)
 [![VK Badge](https://img.shields.io/badge/VK-profile-lightblue)](https://vk.com/egoluback)
 ![](https://visitor-badge.glitch.me/badge?page_id=Egoluback)
@@ -36,7 +36,6 @@ Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
 ![](https://img.shields.io/badge/Library-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-spaCy-informational?style=flat&logo=spaCy&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cpp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Versions-Git-informational?style=flat&logo=Git&logoColor=white&color=white)
@@ -46,6 +45,7 @@ Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
 <summary>More Skills</summary>
 <br />
 
+![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Principle-OOP-informational?style=flat&logo=OOP&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
