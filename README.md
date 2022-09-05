@@ -9,7 +9,7 @@
 
 ![Obi-Wan's "Hello there"](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-I'm Kokush Egor, 16 y. o. novice data scientist from Russia. Currently studying **NLP** and **Deep Learning with PyTorch**. Have some knowledges in base Machine Learning algorithms(**linear models** and **decision trees**) and Deep Learning Neural Networks(**MLP**, **RNN** and **Transformers**). <br />
+I'm Kokush Egor, 17 y. o. novice data scientist from Russia. Currently studying **NLP** and **Deep Learning with PyTorch**. Have some knowledges in base Machine Learning algorithms(**linear models** and **decision trees**) and Deep Learning Neural Networks(**MLP**, **RNN** and **Transformers**). <br />
 I often participate in AI competitions: NTI Big Data&Machine Learning(**Time series**&**web-scrapping**), iVision(**Time series**&**Computer Vision**), NTI Augmented Reality(**Computer Vision**), AIIJC(**NLP**&**Semi-supervised learning**).
 
 Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
