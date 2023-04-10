@@ -2,7 +2,6 @@
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-white)](https://stepik.org/users/51671714)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-account-blue)](https://t.me/egoluback)
 [![VK Badge](https://img.shields.io/badge/VK-profile-lightblue)](https://vk.com/egoluback)
-![](https://visitor-badge.glitch.me/badge?page_id=Egoluback)
 
 I'm Kokush Egor, 17 y. o. HSE student and novice ML-engineer from Russia. Currently working with **Deep Learning with PyTorch** and **Transformers**. Have knowledges in basic Machine Learning algorithms and DL Neural Networks(**MLP**, **RNN** and **Transformers**). <br />
 In school I participated in AI competitions: NTO Big Data&Machine Learning(**Time series**&**web-scrapping**), iVision(**Time series**&**Computer Vision**), NTO Augmented Reality(**Computer Vision**), AIIJC(**NLP**&**Semi-supervised learning**).
