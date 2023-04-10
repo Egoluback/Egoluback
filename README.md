@@ -19,7 +19,7 @@ Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
 ![](https://img.shields.io/badge/Library-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-spaCy-informational?style=flat&logo=spaCy&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Library-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=Cpp&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cpp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Versions-Git-informational?style=flat&logo=Git&logoColor=white&color=white)
 
