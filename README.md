@@ -17,16 +17,16 @@ Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ## My last projects
-- "Efficient LLM-based metrics for NLG" research project for AIRI Summer School [[Presentation](https://docs.google.com/presentation/d/1HNTf9DLWdZIoHxJs9yREJllIuufMsnpHGo9o_seEV_s/edit)] [[Repo](https://github.com/Rexhaif/airi_summer_llm_metrics)]
+- "Efficient LLM-based metrics for NLG" research project for AIRI Summer School [ [Presentation](https://docs.google.com/presentation/d/1HNTf9DLWdZIoHxJs9yREJllIuufMsnpHGo9o_seEV_s/edit) ] [ [Repo](https://github.com/Rexhaif/airi_summer_llm_metrics) ]
   - We tried to beat GPT4-based GEMBA metric by fine-tuning LLMs for translation evaluation
   - I implemented LLM Encoder+MLP decoder architecture which got the best quality
-- "Multimodality in image2text tasks" research project for 1st year of HSE [[Poster](https://docs.google.com/presentation/d/1_b7Yyl43Ck0212e8oj2vRu3GoVxk9pfwi9Ok_85I9xk/edit#slide=id.p1)] [[Repo](https://github.com/Technolog796/image_captioning)]
+- "Multimodality in image2text tasks" research project for 1st year of HSE [ [Poster](https://docs.google.com/presentation/d/1_b7Yyl43Ck0212e8oj2vRu3GoVxk9pfwi9Ok_85I9xk/edit#slide=id.p1) ] [ [Repo](https://github.com/Technolog796/image_captioning) ]
   - We implemented the BLIP-2 architecture and tested it on various configurations
   - We adapted architecture for russian language and achieved tolerable quality
-- NTI ML contest, 2021 [[Repo](https://github.com/Egoluback/nti_ml_20-21)]
+- NTI ML contest, 2021 [ [Repo](https://github.com/Egoluback/nti_ml_20-21) ]
   - I used lots of classic ML algorithms(linear and logistic regression, trees, boostings, etc), web-scrapping for data extraction and grid-search for hyperparams search
   - We achieved one of the best scores in final rating
-- Toxic detector bot, pet project [[Repo](https://github.com/Egoluback/Toxic_Detector)]
+- Toxic detector bot, pet project [ [Repo](https://github.com/Egoluback/Toxic_Detector) ]
   - I trained CatBoostClassifiers for toxicity prediction using word2vec embeddings
 - Other pet-projects
 </details>
