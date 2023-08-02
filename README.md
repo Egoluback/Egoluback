@@ -1,40 +1,32 @@
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
-[![Stepik Badge](https://img.shields.io/badge/Stepik-profile-white)](https://stepik.org/users/51671714)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-account-blue)](https://t.me/egoluback)
-[![VK Badge](https://img.shields.io/badge/VK-profile-lightblue)](https://vk.com/egoluback)
+<h1 align="center">Hi there, I'm <a href="https://t.me/egoluback" target="_blank">Egor Kokush</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, Intern ML-engineer from Russia 🇷🇺</h3>
 
-I'm Kokush Egor, 17 y. o. HSE student and novice ML-engineer from Russia. Currently working with **Deep Learning with PyTorch** and **Transformers**. Have knowledges in basic Machine Learning algorithms and DL Neural Networks(**MLP**, **RNN** and **Transformers**). <br />
-In school I participated in AI competitions: NTO Big Data&Machine Learning(**Time series**&**web-scrapping**), iVision(**Time series**&**Computer Vision**), NTO Augmented Reality(**Computer Vision**), AIIJC(**NLP**&**Semi-supervised learning**).
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
+
+I'm Kokush Egor, 17 y. o. HSE student and novice ML-engineer from Russia. <br />
 
 Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
 
-### Skills
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Sklearn-%233F4F75.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=green)
-![](https://img.shields.io/badge/Framework-Transformers-informational?style=flat&logo=Transformers&logoColor=white&color=green)
-![](https://img.shields.io/badge/Library-Sklearn-informational?style=flat&logo=Sklearn&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Library-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Library-spaCy-informational?style=flat&logo=spaCy&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Library-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cpp&logoColor=white&color=blue)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Versions-Git-informational?style=flat&logo=Git&logoColor=white&color=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
-
-<details>
-<summary>More Skills</summary>
-<br />
-
-![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Principle-OOP-informational?style=flat&logo=OOP&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-
+## My last projects
+- "Efficient LLM-based metrics for NLG" research project for AIRI Summer School [[Presentation](https://docs.google.com/presentation/d/1HNTf9DLWdZIoHxJs9yREJllIuufMsnpHGo9o_seEV_s/edit)] [[Repo](https://github.com/Rexhaif/airi_summer_llm_metrics)]
+  - We tried to beat GPT4-based GEMBA metric by fine-tuning LLMs for translation evaluation
+  - I implemented LLM Encoder+MLP decoder architecture which got the best quality
+- "Multimodality in image2text tasks" research project for 1st year of HSE [[Poster](https://docs.google.com/presentation/d/1_b7Yyl43Ck0212e8oj2vRu3GoVxk9pfwi9Ok_85I9xk/edit#slide=id.p1)] [[Repo](https://github.com/Technolog796/image_captioning)]
+  - We implemented the BLIP-2 architecture and tested it on various configurations
+  - We adapted architecture for russian language and achieved tolerable quality
+- NTI ML contest, 2021 [[Repo](https://github.com/Egoluback/nti_ml_20-21)]
+  - I used lots of classic ML algorithms(linear and logistic regression, trees, boostings, etc), web-scrapping for data extraction and grid-search for hyperparams search
+  - We achieved one of the best scores in final rating
+- Toxic detector bot, pet project [[Repo](https://github.com/Egoluback/Toxic_Detector)]
+  - I trained CatBoostClassifiers for toxicity prediction using word2vec embeddings
+- Other pet-projects
 </details>
