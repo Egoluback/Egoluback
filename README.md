@@ -4,7 +4,7 @@
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
 
-I'm Kokush Egor, 17 y. o. HSE student and novice ML-engineer from Russia. <br />
+I'm Kokush Egor, 18 y. o. HSE student and novice ML-engineer from Russia. <br />
 
 Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
 
