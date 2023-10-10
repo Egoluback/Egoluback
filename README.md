@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/egoluback" target="_blank">Egor Kokush</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/egoluback" target="_blank">George Kokush</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, Intern ML-engineer from Russia 🇷🇺</h3>
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
 
-I'm Kokush Egor, 18 y. o. HSE student and novice ML-engineer from Russia. <br />
+I'm George Kokush, 18 y. o. HSE student and novice ML-engineer from Russia. <br />
 
 Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback) <br />
 [CV](https://disk.yandex.ru/i/sIA2ykc8JNx8Qg)
