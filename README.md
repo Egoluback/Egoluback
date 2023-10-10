@@ -6,7 +6,8 @@
 
 I'm Kokush Egor, 18 y. o. HSE student and novice ML-engineer from Russia. <br />
 
-Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
+Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback) <br />
+[CV](https://disk.yandex.ru/i/sIA2ykc8JNx8Qg)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
