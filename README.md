@@ -4,7 +4,7 @@
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
 
-I'm George Kokush, 18 y. o. HSE&Yandex SHAD student and novice ML/DL-engineer from Russia. <br />
+I'm George Kokush, 18 y. o. HSE and novice ML/DL-engineer from Russia. <br />
 
 Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback) <br />
 [CV](https://drive.google.com/file/d/1DCbeThzQosh43yIlkKhSgWule3pzK_Vm/view?usp=sharing)
