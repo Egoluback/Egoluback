@@ -4,7 +4,7 @@
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
 
-I'm George Kokush, 18 y. o. HSE student and novice ML/DL-engineer from Russia. <br />
+I'm George Kokush, 19 y. o. HSE student and novice ML/DL-engineer from Russia. <br />
 
 Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback) <br />
 [CV](https://drive.google.com/file/d/13lVYOwbV3urfjh7Udg-80-xjZZc297kg/view?usp=sharing)
@@ -18,6 +18,11 @@ Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ## My last projects
+- Hierarchical Transformer research [ [Presentation](https://docs.google.com/presentation/d/1VHXYBQ_0hllOIsx__vtl1KVxg13-n1NKNoh-QT1Fy_0/edit?usp=sharing) ] [ [Repo](https://github.com/Egoluback/hierarchical_neuromusic) ]
+  - My task was to implement Hierarchical Transformer architecture for music domain and to experiment with different parts of it
+  - Basic implementation was similar with Music Transformer (baseline) in terms of quality, but x2 better in terms of speed
+  - I experimented with various hierarchical transformer features, such as shortening/upsample functions, transformer depth, amount of layers, etc
+  - I also came up with several special losses (for HT architecture), some of them look promising
 - "Semantically-Informed Regressive Encoder Score" submission for WMT23 Shared task workshop [ [Paper](https://drive.google.com/file/d/1vFPDnpkXn_D0h8SmEppRUr9iv64dhKj9/view?usp=sharing) ] [ [Repo](https://github.com/v-vskv-v/WMT23-MRE-Score) ]
   - Our task was to develop NN-based metric for text evaluation(machine translation)
   - We improved our developments from AIRI research project trying different approaches(including use of additional vector representations and contrastive learning)
