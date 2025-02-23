@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm George Kokush
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, Intern ML-engineer from Russia 🇷🇺</h3>
+<h3 align="center">Computer science student, Junior ML-engineer from Russia 🇷🇺</h3>
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/egoluback)
 
