@@ -7,7 +7,7 @@
 I'm George Kokush, 19 y. o. HSE student and ML/DL-engineer at Yandex. <br />
 
 Contact me on: [Telegram](https://t.me/egoluback) [VK](https://vk.com/egoluback) <br />
-[CV](https://drive.google.com/file/d/13lVYOwbV3urfjh7Udg-80-xjZZc297kg/view?usp=sharing)
+[CV](https://drive.google.com/file/d/168KN1OYjGDHS-d3VqyHYk6CQptF8pI1N/view?usp=sharing)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
